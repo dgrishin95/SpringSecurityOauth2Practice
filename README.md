@@ -1,1 +1,1 @@
-# Spring Security + OAuth 2 practice
+# Spring Security + OAuth 2 example
